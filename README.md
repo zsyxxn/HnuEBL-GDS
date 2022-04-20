@@ -20,7 +20,7 @@ Follow the installation package steps to install the software to a custom locati
 Button function:<br>
 "Open":Import a GDSII file<br>
 "Zoom In":Enlarge layout<br>
-"Zoom Out":Narrow layout<>
+"Zoom Out":Narrow layout<br>
 "View"->"Show Grid":Show grid or not<br>
 "View"->"Grid":Set grid size<br>
 "View"->"Show Texts":Show text in layout or not<br>
